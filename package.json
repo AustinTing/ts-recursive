@@ -9,5 +9,10 @@
   },
   "author": "Austin Ting",
   "license": "ISC",
-  "devDependencies": {}
+  "devDependencies": {
+    "@types/lodash": "^4.14.168"
+  },
+  "dependencies": {
+    "lodash": "^4.17.21"
+  }
 }
